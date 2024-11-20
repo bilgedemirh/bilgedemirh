@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bilgedemirh
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me bilgedemirh@gmail.com or on instagram @billgeart
